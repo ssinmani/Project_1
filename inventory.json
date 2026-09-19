@@ -1,0 +1,58 @@
+[
+    {
+        "Medicine_ID": 64,
+        "Medicine_name": "Acetaminophen",
+        "Category": "Pain & Inflammation",
+        "Quantity": 100,
+        "Price": 5,
+        "Expiry_date": "9/05/2028"
+    },
+    {
+        "Medicine_ID": 23,
+        "Medicine_name": "Cetirizine",
+        "Category": "Allergy & Respiratory",
+        "Quantity": 250,
+        "Price": 5,
+        "Expiry_date": "1/02/2045"
+    },
+    {
+        "Medicine_ID": 20,
+        "Medicine_name": "Diphenhydramine",
+        "Category": "Allergy & Respiratory",
+        "Quantity": 300,
+        "Price": 7,
+        "Expiry_date": "2/04/2031"
+    },
+    {
+        "Medicine_ID": 14,
+        "Medicine_name": "Aspirin",
+        "Category": "Pain & Inflammation",
+        "Quantity": 150,
+        "Price": 9,
+        "Expiry_date": "4/04/2028"
+    },
+    {
+        "Medicine_ID": 15,
+        "Medicine_name": "Atorvastatin",
+        "Category": "Cardiovascular & Chronic Conditions",
+        "Quantity": 100,
+        "Price": 3,
+        "Expiry_date": "7/08/2030"
+    },
+    {
+        "Medicine_ID": 29,
+        "Medicine_name": "Amlodipine",
+        "Category": "Cardiovascular & Chronic Conditions",
+        "Quantity": 25,
+        "Price": 6,
+        "Expiry_date": "5/06/2028"
+    },
+    {
+        "Medicine_ID": 45,
+        "Medicine_name": "Famotidine",
+        "Category": "Digestion & Stomach",
+        "Quantity": 50,
+        "Price": 9,
+        "Expiry_date": "9/02/2029"
+    }
+]
